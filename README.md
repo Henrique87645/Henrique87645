@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## 📫 Contatos
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquedominguez12@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquedominguezz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muryllo-teixeira-2361592b3/](https://www.linkedin.com/in/henrique-dominguez-b699b235a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/henrique-dominguez-b699b235a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ### 📊 GitHub Stats
 ![Henrique87645 GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique87645&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
