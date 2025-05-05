@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muryllo-teixeira-2361592b3/)
 
 ### 📊 GitHub Stats
-![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurylloSenai&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurylloSenai&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
+![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique87645&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique87645&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique87645/Henrique87645/output/github-contribution-grid-snake-dark.svg">
