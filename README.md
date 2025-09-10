@@ -55,14 +55,15 @@
 
 
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 I am a Blockchain Developer
+# Hello! 👋 
 <div>
 <br/>
 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance blockchain, web applications<br/>
 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
+</br>
 
 </div>
 
