@@ -55,15 +55,13 @@
 
 
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 
+# Olá! 👋 
 <div>
 <br/>
-🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance blockchain, web applications<br/>
-🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
-</br>
+🖥️ Atuação prática em laboratórios de inovação (Espaço Maker), com projetos envolvendo impressoras 3D, corte a laser, prototipagem eletrônica com Arduino e Raspberry Pi.<br/>
+💾 Conhecimentos em programação e bancos de dados (SQL Server, MySQL, Node.js, JavaScript, C#, ReactJS/Native e Python).<br/>
+☁️ Experiência inicial em Linux, Docker e Git, além de práticas em segurança da informação.<br/>
+📚 Atualmente cursando Sistemas de Informação, com foco em programação, banco de dados e infraestrutura de TI.<br/>
 
 </div>
 
