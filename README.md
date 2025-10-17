@@ -141,6 +141,7 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+</table>
 
 <h3 align="left">📫 Contacts:</h3>
 
