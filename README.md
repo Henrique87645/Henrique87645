@@ -141,9 +141,36 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-  
-     
 
+<h3 align="left">📫 Contacts:</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <a href="mailto:muryteixeira14@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
+      </a>
+      <br>Email
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.instagram.com/Henrique87645x8" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.linkedin.com/in/henrique-dominguez3034/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
+      </a>
+      <br>LinkedIn
+    </td>
+  </tr>
+</table>
+
+### 📊 GitHub Stats
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique87645&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique87645&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
+   
  </tr>
 </table>
 <div align="center">
