@@ -147,13 +147,13 @@
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <a href="mailto:muryteixeira14@gmail.com" target="_blank">
+      <a href="mailto:henriquedominguez12@gmail.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
       </a>
       <br>Email
     </td>
     <td align="center" width="130">
-      <a href="https://www.instagram.com/Henrique87645x8" target="_blank">
+      <a href="https://www.instagram.com/henriquedominguezz/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
       </a>
       <br>Instagram
