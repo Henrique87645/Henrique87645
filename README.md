@@ -55,7 +55,7 @@
 
 
 <!--suppress HtmlDeprecatedAttribute -->
-# Olá! 👋 
+# Hello, my name is Henrique! 👋 
 <div>
 <br/>
 🖥️ Atuação prática em laboratórios de inovação (Espaço Maker), com projetos envolvendo impressoras 3D, corte a laser, prototipagem eletrônica com Arduino e Raspberry Pi.<br/>
@@ -67,84 +67,109 @@
 
 <h3 align="left">Languages ​​I am currently using and know | Linguagens que atualmente estou usando e sei:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C#
+      </td>
+    </tr>
+    <tr>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+    </tr>
+  </table>
 
-<h3 align="left">📫 Contacts:</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <a href="mailto:henriquedominguez12@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
-      </a>
-      <br>Email
-    </td>
-    <td align="center" width="130">
-      <a href="https://www.instagram.com/henriquedominguezz/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
-      </a>
-      <br>Instagram
-    </td>
-    <td align="center" width="130">
-      <a href="https://www.linkedin.com/in/henrique-dominguez3034/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
-      </a>
-      <br>LinkedIn
-    </td>
-  </tr>
-</table>
-
-### 📊 GitHub Stats
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique87645&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique87645&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
-   
- </tr>
-</table>
-<div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-<br><br>
+  <h3 align="left">I am currently studying | Atualmente estou estudando:</h3>
+  
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C#
+      </td>
+    </tr>
+  </table>
+  
+  
+  <h3 align="left">📫 Contacts:</h3>
+  
+  <table align="center">
+    <tr>
+      <td align="center" width="130">
+        <a href="mailto:henriquedominguez12@gmail.com" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
+        </a>
+        <br>Email
+      </td>
+      <td align="center" width="130">
+        <a href="https://www.instagram.com/henriquedominguezz/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
+        </a>
+        <br>Instagram
+      </td>
+      <td align="center" width="130">
+        <a href="https://www.linkedin.com/in/henrique-dominguez3034/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
+        </a>
+        <br>LinkedIn
+      </td>
+    </tr>
+  </table>
+  
+  ### 📊 GitHub Stats
+  ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique87645&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique87645&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
+     
+   </tr>
+  </table>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </div>
 </div>
