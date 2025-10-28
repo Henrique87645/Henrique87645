@@ -65,7 +65,7 @@
 
 </div>
 
-<h3 align="left">Languages ​​I am currently using and know | Linguagens que atualmente estou usando e sei:</h3>
+<h3 align="center">Languages ​​I am currently using and know | Linguagens que atualmente estou usando e sei:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
@@ -108,7 +108,7 @@
     </tr>
   </table>
 
-  <h3 align="left">I am currently studying | Atualmente estou estudando:</h3>
+  <h3 align="center">I am currently studying | Atualmente estou estudando:</h3>
   
   <table align="center">
     <tr>
@@ -132,9 +132,33 @@
       </td>
     </tr>
   </table>
+
+<h3 align="center">🛠 Tools & Platforms | Ferramentas & Plataformas:</h3>
+
+<table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="icon" width="65" height="65" />
+        </a>
+        <br>Arduino
+      </td>
+      <td align="center" width="96">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="icon" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+          <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"  alt="icon" width="65" height="65" />
+        <br>VSCode
+      </td>
+      <td align="center" width="96">
+          <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="icon" width="65" height="65" />
+        <br>Visual Studio
+      </td>
+    </tr>
+  </table>  
   
-  
-  <h3 align="left">📫 Contacts:</h3>
+  <h3 align="center">📫 Contacts:</h3>
   
   <table align="center">
     <tr>
