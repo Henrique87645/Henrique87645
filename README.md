@@ -141,19 +141,15 @@
         <a href="#macropower-tech">
           <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="icon" width="95" height="95" />
         </a>
-        <br>Arduino
-      </td>
+      </td>      
       <td align="center" width="96">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="icon" width="95" height="95" />
-        <br>GitHub
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="96">
           <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="icon" width="95" height="95" />
-        <br>VSCode
       </td>
       <td align="center" width="96">
           <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="icon" width="65" height="65" />
-        <br>Visual Studio
       </td>
     </tr>
   </table>  
