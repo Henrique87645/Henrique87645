@@ -139,16 +139,16 @@
     <tr>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="icon" width="65" height="65" />
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="icon" width="95" height="95" />
         </a>
         <br>Arduino
       </td>
       <td align="center" width="96">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="icon" width="65" height="65" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="icon" width="95" height="95" />
         <br>GitHub
       </td>
       <td align="center" width="96">
-          <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"  alt="icon" width="65" height="65" />
+          <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="icon" width="95" height="95" />
         <br>VSCode
       </td>
       <td align="center" width="96">
