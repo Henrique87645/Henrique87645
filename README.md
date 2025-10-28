@@ -163,8 +163,6 @@
   ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique87645&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique87645&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
      
-   </tr>
-  </table>
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -172,4 +170,5 @@
       <img alt="github-snake" src="https://github.com/Henrique87645/Henrique87645/blob/output/github-contribution-grid-snake.svg" />
     </picture>
   </div>
+  <br></br>
 </div>
